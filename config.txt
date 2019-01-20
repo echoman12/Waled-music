@@ -1,0 +1,6 @@
+owner=498566145071120385
+prefix=w
+game= whelp
+stayinchannel=true
+songinstatus=false
+token=NTM2NTk4NDcxMDA4ODQ1ODM0.DyZByw.ZNsDoSWe6riMGzTyvji3DYApmd8
