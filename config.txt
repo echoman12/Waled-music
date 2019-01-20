@@ -3,4 +3,4 @@ prefix=w
 game= whelp
 stayinchannel=true
 songinstatus=false
-token=token
+token=NTM2NTk4NDcxMDA4ODQ1ODM0.DyZByw.ZNsDoSWe6riMGzTyvji3DYApmd8
